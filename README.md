@@ -379,7 +379,7 @@
                 </div>
                 <div class="culture-item">
                     <h3>Cuisine</h3>
-                    <p>Filipino food is a unique fusion of flavors, with popular dishes like adobo, sinigang, and lechon enjoyed across the country.</p>
+                    <p>Filipino food is a unique flavors, with popular dishes like adobo, sinigang, and lechon enjoyed across the country.</p>
                 </div>
                 <div class="culture-item">
                     <h3>Hospitality</h3>
